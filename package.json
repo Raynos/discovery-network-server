@@ -1,6 +1,6 @@
 {
   "name": "discovery-network-server",
-  "version": "0.0.1",
+  "version": "0.0.1-1",
   "description": "The server for discoverynetwork.co",
   "keywords": [],
   "author": "Raynos <raynos2@gmail.com>",
@@ -19,6 +19,9 @@
     "mux-demux-shoe": "~0.2.7",
     "discovery-network": "~0.4.0"
   },
+  "domains": [
+    "discoverynetwork.co"
+  ],
   "devDependencies": {},
   "licenses": [],
   "scripts": {
