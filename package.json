@@ -4,7 +4,6 @@
   "description": "The server for discoverynetwork.co",
   "keywords": [],
   "author": "Raynos <raynos2@gmail.com>",
-  "repository": "git://github.com/Raynos/discovery-network-server.git",
   "main": "index",
   "homepage": "https://github.com/Raynos/discovery-network-server",
   "contributors": [
