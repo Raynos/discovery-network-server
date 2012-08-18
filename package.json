@@ -1,0 +1,32 @@
+{
+  "name": "discovery-network-server",
+  "version": "0.0.1",
+  "description": "The server for discoverynetwork.co",
+  "keywords": [],
+  "author": "Raynos <raynos2@gmail.com>",
+  "repository": "git://github.com/Raynos/discovery-network-server.git",
+  "main": "index",
+  "homepage": "https://github.com/Raynos/discovery-network-server",
+  "contributors": [
+    {
+      "name": "Jake Verbaten"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Raynos/discovery-network-server/issues",
+    "email": "raynos2@gmail.com"
+  },
+  "dependencies": {
+    "mux-demux-shoe": "~0.2.7",
+    "discovery-network": "~0.4.0"
+  },
+  "devDependencies": {},
+  "licenses": [],
+  "scripts": {
+    "start": "index.js"
+  },
+  "subdomain": "raynos.discovery-network-server",
+  "engines": {
+    "node": "0.8.x"
+  }
+}
